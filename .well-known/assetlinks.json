@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.homework.pavement.musicplayer",
+    "sha256_cert_fingerprints":
+    ["37:76:C5:CD:6D:BC:A8:BF:3B:3B:47:31:C8:52:85:5B:71:70:BA:29:BD:92:3B:E2:82:E2:FD:09:42:A3:2B:D4"]
+  }
+}]
