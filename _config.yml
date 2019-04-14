@@ -25,7 +25,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: iwasahorse
 header_pages:
   - about.md
-  - portfolio.md
+  - projects.md
   - posts.md
 lang: ko
 show_excerpts:  true
