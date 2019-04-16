@@ -4,14 +4,14 @@ title: Projects
 permalink: /projects/
 ---
 
-#### **대학 종합정보시스템 학사/행정/연구 메뉴**
+#### **대학 종합정보시스템 학사/행정/연구 프로그램**
 
 ![portal](/assets/img/portal.png)
 
 기간: 2016.07. ~ 2018.05.\\
 개발 환경/사용 기술: ActionScript3, FLEX, Java, 전자정부 Framework, Oracle Database, Tomcat
 
-한국기술교육대학교에서 이용하는 일종의 ERP 시스템입니다. 교과, 학적, 장학, 성적, 수강 정보, 인사, 자산, 시설, 구매, 회계, 복지 등이 있습니다.
+한국기술교육대학교에서 이용하는 일종의 ERP 시스템입니다. 교과, 학적, 성적, 수강 정보, 인사, 자산, 구매, 회계 등의 프로그램이 있습니다. 저는 주로 행정 부서 직원들이 사용하는 프로그램들을 만들었습니다.
 
 <!-- --- -->
 
@@ -36,10 +36,5 @@ permalink: /projects/
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
 
 [jekyll-organization]: https://github.com/jekyll
