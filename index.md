@@ -4,6 +4,4 @@
 
 layout: home
 ---
-
-## 안녕하세요.  
-## 자바 애플리케이션 개발자 Tim입니다.
+![skills](/assets/img/skills.png)
