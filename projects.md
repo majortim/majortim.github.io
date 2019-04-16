@@ -32,9 +32,3 @@ permalink: /projects/
 개발 환경/사용 기술: Java, Android, Google Maps API
 
 셔틀버스의 위치정보를 실시간으로 조회할 수 있는 안드로이드 애플리케이션입니다. 안드로이드 디바이스의 GPS, NFC(Near Field Communication, 근거리 무선 통신) 센서 기술을 이용했습니다. 셔틀버스 위치추적 및 승차장 정보 조회, 시간표 조회, 도착 전 알림, 버스 내부 승객 수 조회 등의 기능을 제공합니다.
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-[jekyll-organization]: https://github.com/jekyll
