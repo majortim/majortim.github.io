@@ -4,8 +4,4 @@
 
 layout: home
 ---
-<<<<<<< HEAD
 ![skills](/assets/img/skills.png)
-=======
-
->>>>>>> be3d1167ecc5462089ff81c55fd47f971832fcd8
