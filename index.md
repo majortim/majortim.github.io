@@ -10,12 +10,12 @@ title: About
 |---
 | Skill | Details | 
 |-|-|
-| **Java** | 예외 처리, Generics, Collections, Thread, 동기화, 파일 처리, JDBC, Sockets|
+| **Java** | Generics, Collections, Thread, I/O, JDBC, Sockets|
 | **Java EE** | Servlet, JSP, EL, JSTL |
 | **Spring Framework** | IoC, AOP, Spring MVC, DAO |
 | **Persistence Framework** | MyBatis, iBatis, Hibernate |
 | **Android** | Activity, Service, Content Provider, Broadcast Receiver, Layout, GPS, NFC |
-| **Oracle Database** | PL/SQL, CURSOR, 합계 쿼리
+| **Oracle Database** | PL/SQL, CURSOR, Aggregation
 | **Web** | HTML5, JavaScript, CSS, jQuery, Bootstrap
 |---
 
