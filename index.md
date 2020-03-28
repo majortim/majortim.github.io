@@ -11,8 +11,8 @@ title: About
 | Skill | Details | 
 |-|-|
 | **Java** | Generics, Collections, Thread, I/O, JDBC, Sockets|
-| **Java EE** | Servlet, JSP, EL, JSTL |
-| **Spring Framework** | IoC, AOP, Spring MVC, DAO |
+| **Java EE** | Servlet, JSP, JSTL, EL |
+| **Spring Framework** | Core, AOP, Data Access, Web, Test |
 | **Persistence Framework** | MyBatis, iBatis, Hibernate |
 | **Android** | Activity, Service, Content Provider, Broadcast Receiver, Layout, GPS, NFC |
 | **Oracle Database** | PL/SQL, CURSOR, Aggregation
