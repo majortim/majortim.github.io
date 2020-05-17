@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-안녕하세요. 개발자 Tim의 블로그입니다.
+안녕하세요. 개발자 Tim의 포트폴리오입니다.
 
 ### Skills
 
