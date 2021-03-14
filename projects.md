@@ -12,7 +12,7 @@ permalink: /projects/
 
 ***
 
-  
+   
 #### **내친구서울 홈페이지**
 
 ![portal](/assets/img/mfs.png)
@@ -24,7 +24,7 @@ permalink: /projects/
 
 ***
 
-  
+   
 #### **대학 종합정보시스템 학사/행정/연구 프로그램**
 
 ![portal](/assets/img/portal.png)
@@ -38,7 +38,7 @@ permalink: /projects/
 
 ***
 
-  
+   
 #### **UMS**
 
 ![portal](/assets/img/ums.png)
@@ -50,7 +50,7 @@ permalink: /projects/
 
 ***
 
-  
+   
 #### **KOBUS**
 
 ![portal](/assets/img/kobus.png)
