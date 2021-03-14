@@ -10,10 +10,9 @@ permalink: /projects/
 
 서울특별시 대기환경정보(클린에어) 사이트 구축 및 운영
 
-
 ***
 
-   
+<br>
 #### **내친구서울 홈페이지**
    
 ![portal](/assets/img/mfs.png)
@@ -23,10 +22,9 @@ permalink: /projects/
 
 서울시의 어린이신문 '내친구서울' 홈페이지 구축 및 운영
 
-
 ***
 
-   
+<br>
 #### **대학 종합정보시스템 학사/행정/연구 프로그램**
 
 ![portal](/assets/img/portal.png)
@@ -36,10 +34,8 @@ permalink: /projects/
 
 한국기술교육대학교 온라인 종합정보시스템 학사/행정/연구 프로그램 개발 및 운영
 
-
 ***
-
-   
+<br>   
 #### **UMS**
 
 ![portal](/assets/img/ums.png)
@@ -49,10 +45,9 @@ permalink: /projects/
 
 한국기술교육대학교 교내 통합 메시징 시스템(Unified Messaging System, UMS) 고도화
 
-
 ***
 
-   
+<br>
 #### **KOBUS**
 
 ![portal](/assets/img/kobus.png)
