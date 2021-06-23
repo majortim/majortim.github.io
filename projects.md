@@ -4,8 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
+<br>
 #### **서울특별시 대기환경정보**
-기간: 2020.01 ~ 현재  
+   
+![portal](/assets/img/cleanair.png)
+
+기간: 2020.01. ~ 2021.06. 
 개발 환경/사용 기술: Java, eGovFrame, Spring Framework, JSP, MyBatis, HTML5, CSS, JavaScript, jQuery, axios, Oracle Database, IBM DataStage, Apache Tomcat, Apache HTTP Server
 
 서울특별시 대기환경정보(클린에어) 사이트 구축 및 운영
