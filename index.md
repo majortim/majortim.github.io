@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About
-description: 웹개발자 Tim의 포트폴리오입니다. Java / Web / Spring / JPA
+description: 웹 개발자 Tim의 포트폴리오입니다. Java / Web / Spring / JPA
 ---
 
-안녕하세요. 웹개발자 Tim의 포트폴리오입니다.
+안녕하세요. 웹 개발자 Tim의 포트폴리오입니다.
 
 ### Skills
 
