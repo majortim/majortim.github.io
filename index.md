@@ -1,9 +1,10 @@
 ---
 layout: page
 title: About
+description: 웹개발자 Tim의 포트폴리오입니다. Java / Web / Spring / JPA
 ---
 
-안녕하세요. 개발자 Tim의 포트폴리오입니다.
+안녕하세요. 웹개발자 Tim의 포트폴리오입니다.
 
 ### Skills
 
@@ -11,12 +12,12 @@ title: About
 | Skill | Details | 
 |-|-|
 | **Java** | Generics, Collections, Thread, I/O, JDBC, Sockets|
-| **Java EE** | Servlet, JSP, JSTL, EL |
-| **Spring Framework** | Core, AOP, Data Access, Web, Test |
-| **Persistence Framework** | MyBatis, iBatis, Hibernate |
+| **Java EE(Jakarta EE)** | Servlet, JSP, JSTL, EL, JPA |
+| **Framework** | Spring, Hibernate, MyBatis, iBatis, JUnit |
 | **Android** | Activity, Service, Content Provider, Broadcast Receiver, Layout, GPS, NFC |
-| **Oracle Database** | PL/SQL, CURSOR, Aggregation
+| **Database** | MySQL, MariaDB, Oracle(PL/SQL, Cursor, Aggregation)
 | **Web** | HTML5, JavaScript, CSS, jQuery, Bootstrap
+| **Server** | Apache HTTP Server, Apache Tomcat |
 |---
 
 

@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
+description: Tim의 참여 프로젝트 이력. 서울특별시 대기환경정보(클린에어), 내친구서울, 한국기술교육대학교 온라인 종합정보시스템 등 개발.
 ---
 
 #### **서울특별시 대기환경정보(클린에어) 홈페이지 재구축 및 운영**
@@ -29,7 +30,7 @@ permalink: /projects/
 ***
 <br />
 
-#### **서울시 어린이신문 '내친구서울' 홈페이지 구축 및 운영**
+#### **서울특별시 어린이신문 '내친구서울' 홈페이지 구축 및 운영**
 
 ![portal](./assets/img/mfs.png)
 
