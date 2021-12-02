@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "추상 클래스와 인터페이스 비교"
+description: "추상 클래스와 인터페이스는 어떤 상황에 사용할까?" 라는 의문에 대한 대답
 date:   2019-04-16 15:00:00 +0900
 categories: Java
 excerpt_separator: <!--more-->
