@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 웹 개발자 Tim의 포트폴리오입니다.
 description: 웹 개발자 Tim의 포트폴리오입니다. Java / Web / Spring / JPA
 ---
 
