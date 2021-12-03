@@ -1,7 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://majortim.github.io/sitemap
 Sitemap: https://majortim.github.io/sitemap.xml
-Sitemap: http://majortim.github.io/sitemap
-Sitemap: http://majortim.github.io/sitemap.xml
