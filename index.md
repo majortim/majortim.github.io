@@ -1,20 +1,19 @@
 ---
-layout: page
+layout: home
 title: 웹 개발자 Tim의 포트폴리오입니다.
 description: 웹 개발자 Tim의 포트폴리오입니다. Java / Web / Spring / JPA
 ---
 
-안녕하세요. 웹 개발자 Tim의 포트폴리오입니다.
+### About
+4년차 웹 개발자입니다. 공공SW 사업을 주로 하는 회사에서 내친구서울, 서울특별시 대기환경정보(클린에어) 등 2개의 서울시 관련 웹사이트를 구축 및 운영하였으며, 대학교에서 근무하면서 대학 종합정보시스템에 들어가는 행정 프로그램들을 개발했습니다.
 
 ### Skills
 
 |---
 | Skill | Details | 
 |-|-|
-| **Java** | Generics, Collections, Thread, I/O, JDBC, Sockets|
-| **Java EE(Jakarta EE)** | Servlet, JSP, JSTL, EL, JPA |
-| **Framework** | Spring, Hibernate, MyBatis, iBatis, JUnit |
-| **Android** | Activity, Service, Content Provider, Broadcast Receiver, Layout, GPS, NFC |
+| **Backend** | Java, Spring, Servlet, JPA, JUnit |
+| **Persistence Framework** | Hibernate, MyBatis, iBatis |
 | **Database** | MySQL, MariaDB, Oracle(PL/SQL, Cursor, Aggregation)
 | **Web** | HTML5, JavaScript, CSS, jQuery, Bootstrap
 | **Server** | Apache HTTP Server, Apache Tomcat |
