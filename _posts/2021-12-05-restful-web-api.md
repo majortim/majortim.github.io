@@ -7,7 +7,7 @@ categories: Web
 excerpt_separator: <!--more-->
 ---
 
-RESTful Web API - 웹 API를 위한 모범 전략 가이드(원제 RESTful Web APIs)의 내용을 정리해봤습니다.
+RESTful Web API - 웹 API를 위한 모범 전략 가이드(원제 RESTful Web APIs: Services for a Changing World)의 내용을 정리해봤습니다.
 
 <!--more-->
 
