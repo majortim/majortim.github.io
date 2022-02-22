@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "마이크로 서비스 패턴 도서 내용 정리"
+title:  "마이크로서비스 패턴 도서 내용 정리"
 description: "모놀리식과 MSA 개념, 서비스 디스커버리, 동기 RPI 패턴, 회로 차단기 패턴, 도메인 이벤트, API 조합 패턴, CQRS 패턴, API 게이트 웨이"
 date:   2022-02-22 17:00:00 +0900
 categories: MSA
 excerpt_separator: <!--more-->
 ---
-마이크로 서비스 패턴 / Chris Richardson (2020). *Microservices Patterns* (이일웅, 역). 길벗. (원본 출판 2018년)의 내용 중 일부를 정리해봤습니다.
+마이크로서비스 패턴 / Chris Richardson (2020). *Microservices Patterns* (이일웅, 역). 길벗. (원본 출판 2018년)의 내용 중 일부를 정리해봤습니다.
 
 <!--more-->
 
