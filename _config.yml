@@ -7,6 +7,9 @@ description:
 url: https://majortim.github.io #"" the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: majortim
+tistory: 
+  username: majortim
+  description: Tim's Tistory
 header_pages:
   # - about.md
   - projects.md
