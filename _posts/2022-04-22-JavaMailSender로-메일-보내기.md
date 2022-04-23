@@ -159,23 +159,23 @@ public class Main {
 17:55:09.183 [main] DEBUG com.sun.mail.smtp - Found extension "AUTH", arg "PLAIN LOGIN"
 17:55:09.183 [main] DEBUG com.sun.mail.smtp - Found extension "ENHANCEDSTATUSCODES", arg ""
 17:55:09.183 [main] DEBUG com.sun.mail.smtp - STARTTLS requested but already using SSL
-17:55:09.183 [main] DEBUG com.sun.mail.smtp - protocolConnect login, host=smtp.naver.com, user=onvideotape, password=<non-null>
+17:55:09.183 [main] DEBUG com.sun.mail.smtp - protocolConnect login, host=smtp.naver.com, user=발송자, password=<non-null>
 17:55:09.183 [main] DEBUG com.sun.mail.smtp - Attempt to authenticate using mechanisms: LOGIN PLAIN DIGEST-MD5 NTLM XOAUTH2 
 17:55:09.183 [main] DEBUG com.sun.mail.smtp - Using mechanism LOGIN
 17:55:09.183 [main] DEBUG com.sun.mail.smtp - AUTH LOGIN command trace suppressed
 17:55:09.251 [main] DEBUG com.sun.mail.smtp - AUTH LOGIN succeeded
 17:55:09.261 [main] DEBUG com.sun.mail.smtp - use8bit false
-17:55:09.261 [main] TRACE com.sun.mail.smtp.protocol - MAIL FROM:<onvideotape@naver.com>
+17:55:09.261 [main] TRACE com.sun.mail.smtp.protocol - MAIL FROM:<발송자@naver.com>
 17:55:09.277 [main] TRACE com.sun.mail.smtp.protocol - 250 2.1.0 OK  - nsmtp
-17:55:09.277 [main] TRACE com.sun.mail.smtp.protocol - RCPT TO:<ridenowhere90@gmail.com>
+17:55:09.277 [main] TRACE com.sun.mail.smtp.protocol - RCPT TO:<수신자@gmail.com>
 17:55:09.277 [main] TRACE com.sun.mail.smtp.protocol - 250 2.1.5 OK  - nsmtp
 17:55:09.277 [main] DEBUG com.sun.mail.smtp - Verified Addresses
-17:55:09.277 [main] DEBUG com.sun.mail.smtp -   ridenowhere90@gmail.com
+17:55:09.277 [main] DEBUG com.sun.mail.smtp -   수신자@gmail.com
 17:55:09.277 [main] TRACE com.sun.mail.smtp.protocol - DATA
 17:55:09.277 [main] TRACE com.sun.mail.smtp.protocol - 354 Go ahead  - nsmtp
 17:55:09.277 [main] TRACE com.sun.mail.smtp.protocol - Date: Fri, 22 Apr 2022 17:55:09 +0900 (KST)
-17:55:09.277 [main] TRACE com.sun.mail.smtp.protocol - From: onvideotape@naver.com
-17:55:09.277 [main] TRACE com.sun.mail.smtp.protocol - To: ridenowhere90@gmail.com
+17:55:09.277 [main] TRACE com.sun.mail.smtp.protocol - From: 발송자@naver.com
+17:55:09.277 [main] TRACE com.sun.mail.smtp.protocol - To: 수신자@gmail.com
 17:55:09.277 [main] TRACE com.sun.mail.smtp.protocol - Message-ID: <>
 17:55:09.277 [main] TRACE com.sun.mail.smtp.protocol - Subject: =?UTF-8?B?66mU7J28IO2FjOyKpO2KuA==?=
 17:55:09.277 [main] TRACE com.sun.mail.smtp.protocol - MIME-Version: 1.0
