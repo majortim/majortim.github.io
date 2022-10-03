@@ -6,15 +6,27 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <meta name="google-site-verification" content="QrGTAYNjlkm0oA0m4GtlhMEwIuemVXFeGTb9caWYmCA">
-  
-  {%- seo title=false -%}
+  <meta property="og:title" content="{{ page.title }}" >
+  <meta name="author" content="{{ site.author }}" >
+  <meta property="og:locale" content="ko" />
+  {% if page.description != nil %}
+  <meta name="description" content="{{ page.description }}" >
+  <meta property="og:description" content="{{ page.description }}" >
+  {% endif %}
+  <link rel="canonical" href="{{ page.url | absolute_url }}" >
+  <meta property="og:url" content="{{ page.url }}" >
+  <meta property="og:site_name" content="{{ site.title }}" >
+  <meta property="og:type" content="article" >
+  {% if page.date != nil %}
+  <meta property="article:published_time" content="{{ page.date }}" >
+  {% endif %}
 
   <title>
   	{% if page.title == nil %}
   		{{ site.title }}
   	{% else %}
-	  {{ page.title }} | {{ site.title }}
-	{% endif %}
+	    {{ page.title }} | {{ site.title }}
+	  {% endif %}
   </title>
 
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
