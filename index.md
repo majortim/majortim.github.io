@@ -10,7 +10,7 @@ description: 웹 개발자 Tim의 포트폴리오입니다. Java / Web / Spring 
 
 ### Skills
 
-|---
+
 | Skill | Details | 
 |-|-|
 | **Backend** | Java, Spring Boot, Servlet, JPA, JUnit |
@@ -18,7 +18,7 @@ description: 웹 개발자 Tim의 포트폴리오입니다. Java / Web / Spring 
 | **Database** | Oracle, MySQL, MariaDB, PostgreSQL
 | **Web** | HTML5, JavaScript, CSS, jQuery, Bootstrap
 | **Server** | Apache HTTP Server, Apache Tomcat |
-|---
+
 
 
 ### Career
