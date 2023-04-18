@@ -18,7 +18,7 @@ gem 'jekyll-sitemap'
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", "~> 226", group: :jekyll_plugins
 
-gem 'activesupport', '~> 5.2', '>= 5.2.6'
+gem 'activesupport', '~> 6.0'
 gem "json", "~> 2.5.1"
 gem 'i18n', '~> 0.8.0'
 
